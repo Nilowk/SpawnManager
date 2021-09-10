@@ -1,0 +1,8 @@
+fr/nilowk/spawnmanager/listener/Manager.java
+ fr.nilowk.spawnmanager.listener.Manager
+fr/nilowk/spawnmanager/Main.java
+ fr.nilowk.spawnmanager.Main
+fr/nilowk/spawnmanager/task/Visit.java
+ fr.nilowk.spawnmanager.task.Visit
+fr/nilowk/spawnmanager/listener/Navigation.java
+ fr.nilowk.spawnmanager.listener.Navigation

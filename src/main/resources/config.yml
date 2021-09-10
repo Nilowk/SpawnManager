@@ -1,0 +1,65 @@
+spawn:
+  world: "world"
+  x: 0.5
+  y: 116.0
+  z: 0.5
+  yaw: 180.0
+  pitch: 0.0
+
+message:
+  visit: "§6ATTENTION, la visite commence dans quelques instants"
+  stop_visit: "la visite est fini j'espère qu'elle t'aura plus"
+
+time:
+  view: 3
+
+view:
+  1:
+    world: "world"
+    x: 67.5
+    y: 156.0
+    z: -27.5
+    yaw: 140.0
+    pitch: 6.0
+  2:
+    world: "world"
+    x: -28.5
+    y: 145.0
+    z: -63.5
+    yaw: -130.0
+    pitch: -6.0
+  3:
+    world: "world"
+    x: 0.5
+    y: 168.0
+    z: -104.5
+    yaw: 0.0
+    pitch: 25.0
+  4:
+    world: "world"
+    x: -136.5
+    y: 181.0
+    z: 60.5
+    yaw: -120.0
+    pitch: 20.0
+  5:
+    world: "world"
+    x: 0.5
+    y: 202.0
+    z: 135.5
+    yaw: 180.0
+    pitch: 25.0
+  6:
+    world: "world"
+    x: 136.5
+    y: 181.0
+    z: 60.5
+    yaw: 120.0
+    pitch: 20.0
+  7:
+    world: "world"
+    x: 0.5
+    y: 210.0
+    z: -137.5
+    yaw: 0.0
+    pitch: 20.0
